@@ -2809,3 +2809,44 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u4624_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:38px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+}
+#u4624 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:318px;
+  width:200px;
+  height:38px;
+  display:flex;
+  font-size:14px;
+}
+#u4624 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4624_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
