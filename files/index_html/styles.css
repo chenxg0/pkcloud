@@ -61,7 +61,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:525px;
+  width:448px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -70,15 +70,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
 }
 #u1 {
   border-width:0px;
   position:absolute;
-  left:347px;
+  left:430px;
   top:250px;
-  width:525px;
+  width:448px;
   height:37px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
 }
 #u1 .text {
   position:absolute;
@@ -97,7 +103,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:198px;
+  width:216px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -113,9 +119,9 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:511px;
+  left:555px;
   top:360px;
-  width:198px;
+  width:216px;
   height:21px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
